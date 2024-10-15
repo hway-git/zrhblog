@@ -19,4 +19,4 @@ sqlparse==0.3.1
 swapper==1.1.2.post1
 uritemplate==3.0.1
 urllib3==1.26.5
-zipp==3.1.0
+zipp==3.19.1
