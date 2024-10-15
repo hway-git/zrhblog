@@ -15,7 +15,7 @@ MarkupSafe==1.1.1
 Pillow==9.3.0
 PyMySQL==0.9.3
 requests==2.23.0
-sqlparse==0.3.1
+sqlparse==0.5.0
 swapper==1.1.2.post1
 uritemplate==3.0.1
 urllib3==1.26.5
