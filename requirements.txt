@@ -13,7 +13,7 @@ Jinja2==2.11.2
 Markdown==3.2.2
 MarkupSafe==1.1.1
 Pillow==9.3.0
-PyMySQL==0.9.3
+PyMySQL==1.1.1
 requests==2.23.0
 sqlparse==0.3.1
 swapper==1.1.2.post1
