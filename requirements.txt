@@ -14,7 +14,7 @@ Markdown==3.2.2
 MarkupSafe==1.1.1
 Pillow==9.3.0
 PyMySQL==0.9.3
-requests==2.23.0
+requests==2.32.2
 sqlparse==0.3.1
 swapper==1.1.2.post1
 uritemplate==3.0.1
